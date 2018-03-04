@@ -35,6 +35,9 @@
 			<div id="logo"></div>
 		</div>
 	</header>
+	<p>
+		testなんです
+	</p>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
