@@ -36,7 +36,7 @@
 		</div>
 	</header>
 	<p>
-		testな
+		te
 	</p>
 	<div class="container">
 		<div class="row">
