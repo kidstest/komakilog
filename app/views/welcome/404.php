@@ -36,7 +36,7 @@
 		</div>
 	</header>
 	<p>
-		testなんです
+		testな
 	</p>
 	<div class="container">
 		<div class="row">
