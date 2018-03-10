@@ -108,7 +108,7 @@ catch (HttpNotFoundException $e)
         $response = $routerequest('_404_', $e);
 }
 catch (HttpServerErrorException $e)
-{
+{　
         $response = $routerequest('_500_', $e);
 }
 
